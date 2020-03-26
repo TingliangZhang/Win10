@@ -16,3 +16,9 @@ Win10笔记
 ## OpenVPN 开机[自动登录](https://www.jinbo123.com/3376.html)
 
 修改快捷方式的属性，"C:\Program Files\OpenVPN\bin\openvpn-gui.exe" --connect skyworks-campus-ipv4-windows.ovpn
+
+## Steam注册和CSGO
+
+Steam注册有VPN检测，而且有谷歌人机验证，需要修改DNS为 8.8.8.8 或 114.114.114.114，方能通过验证注册中国账号。
+
+CSGO需要在启动参数里设置-worldwide以切换到国际服，否则还要注册完美世界绑定。
